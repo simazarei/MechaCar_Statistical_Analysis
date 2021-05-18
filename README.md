@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 
-# MechaCar_Statistical_Analysis
+
 
 ## Linear Regression to Predict MPG
 
@@ -10,10 +10,11 @@
 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
+Linear Regression
 
 ![](Resources/lm1.png)
 
-
+Linear Regression summary
 
 ![](Resources/summary_lm1.png)
 
